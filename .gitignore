@@ -8,6 +8,6 @@ build/
 # Secrete
 secrets/
 *.txt
-!notite.txt
+notite.txt
 # Setări personale ale editorului
 .vscode/
