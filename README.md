@@ -22,3 +22,5 @@ BUTTON_PIN 2 // buton de pornire/oprire achizitie
 Sistemul suporta doua moduri:
 Comunicatie seriala la 115200 baud (mod rapid, recomandat)
 Comunicatie seriala la 19200 baud (mod compatibilitate)
+
+Modificare coleg
