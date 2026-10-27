@@ -6,4 +6,5 @@
 #define SERIAL_BAUD 115200 // viteza portului serial
 #define LED_PIN 13 // LED de stare
 #define BUTTON_PIN 2 // buton de pornire/oprire achizitie
+#define ALARM_TEMP_C 45.0 // temperatura de alarmă (°C)
 #endif
