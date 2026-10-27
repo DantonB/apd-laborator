@@ -19,4 +19,4 @@ SAMPLE_PERIOD_MS 1000 // compromis: 1s (consum redus)
 SERIAL_BAUD 19200 // viteza portului serial
 LED_PIN 13 // LED de stare
 BUTTON_PIN 2 // buton de pornire/oprire achizitie
-Comunicatie seriala la 19200 baud
+Comunicatie seriala la 115200 baud
