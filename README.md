@@ -24,3 +24,8 @@ Comunicatie seriala la 115200 baud (mod rapid, recomandat)
 Comunicatie seriala la 19200 baud (mod compatibilitate)
 
 Modificare coleg
+
+## Senzori utilizați
+| Senzor | Interfață | Domeniu |
+|---|---|---|
+| TMP36 | Analogic (A0) | -40°C ... +125°C |
